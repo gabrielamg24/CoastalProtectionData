@@ -8,7 +8,7 @@ There are 4 main types of data, there is a branch created for each of them which
 
 ==================
 ##Index
-  - [Usage](#usage)
+  - [Usage](##usage)
     - [Erosion sticks](#erosion-sticks)
     - [dGPS](#dgps)
     - [Plaster balls](#plaster-balls)
@@ -22,11 +22,7 @@ There are 4 main types of data, there is a branch created for each of them which
 ---
 ##Usage 
 
-For creating color temperature based maps and seeing them in gif format you just need to run the following shell script! 
 
-First step is heading over to http://www.esa-sst-cci.org/PUG/map.htm and downloading data from the region that interests you! 
-
-For running the program in your computer you ned to have **Python** and **R 3.2.2** installed. You will also need to download the following files into a single folder: 
 
 1. [Shell script](change link )
 2. [Python script](https://github.com/gabrielamg24/SST/blob/master/format-data.py)
@@ -35,16 +31,7 @@ For running the program in your computer you ned to have **Python** and **R 3.2.
 
 ###Erosion sticks  
 
-          #!/bin/bash
 
-          python regular.py $1
-          
-          Rscript maps.R
-
-          for FOLDER in 'ls *.png'
-          do
-            convert -delay 200 *.png -loop 0 file.gif
-          done
 
 ###dGPS
 
