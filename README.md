@@ -48,6 +48,8 @@ The following links direct to R or Matlab scripts.
 
 ## Results
 
+You can visualize all results in these [graphs](https://github.com/gabrielamg24/CoastalProtectionData/blob/results/ALLGRAPHS.pdf)
+
 ---
 
 ## Are we missing something??
