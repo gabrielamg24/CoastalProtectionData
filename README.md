@@ -21,6 +21,8 @@ There are 4 main types of data, there is a branch created for each of them which
 
 Through R you can statistically analyze the data using bayesian inference with MCMC and visualize it through graphs. 
 
+The following links direct to R or Matlab scripts.
+
 ### Erosion sticks  
 
 1. [Statistical analysis](https://github.com/gabrielamg24/CoastalProtectionData/blob/Erosion-sticks/sticksSTATS.R)
