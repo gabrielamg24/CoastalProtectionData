@@ -8,39 +8,38 @@ There are 4 main types of data, there is a branch created for each of them which
 
 ==================
 ## Index
-  - [Usage](#Usage)
+  - [DATA](#data)
     - [Erosion sticks](#erosion-sticks)
     - [dGPS](#dgps)
     - [Plaster balls](#plaster-balls)
     - [Wave gauge](#wave-gauge)
   - [RESULTS](#results)
-  - [Features and advantages of this project](#features-and-advantages-of-this-project)
-    - [Challenges](#challenges)
   - [Are we missing something?](#are-we-missing-something)
-  - [License](#license)
 
 ---
-## Usage 
+## Data 
 
-
-
-1. [Shell script](change link )
-2. [Python script](https://github.com/gabrielamg24/SST/blob/master/format-data.py)
-3. [R script](https://github.com/gabrielamg24/SST/blob/master/gganimate.r)
-4. [Data files](https://github.com/gabrielamg24/SST/blob/master/SST%20all%20files.zip) (use these files as an example!)
+Through R you can statistically analyze the data using bayesian inference with MCMC and visualize it through graphs. 
 
 ### Erosion sticks  
 
-
+1. [Statistical analysis](https://github.com/gabrielamg24/CoastalProtectionData/blob/Erosion-sticks/sticksSTATS.R)
+2. [Graphs](https://github.com/gabrielamg24/CoastalProtectionData/blob/Erosion-sticks/sedsticksPLOTS.R)
 
 ### dGPS
 
-This script will help you rearrange your data files and compile them into one!
-
-          #! /usr/bin/env python
-
+1. [Statistical analysis](https://github.com/gabrielamg24/CoastalProtectionData/blob/dgps/dgpsSTATS.R)
+2. [Graphs for Southern site](https://github.com/gabrielamg24/CoastalProtectionData/blob/dgps/dgpsPLOTSsouth.R)
+3. [Graphs for Natural Mussel Beds](https://github.com/gabrielamg24/CoastalProtectionData/blob/dgps/dgpsPLOTSnmb.R)
 
 ### Plaster balls
 
+1. [Statistical analysis](https://github.com/gabrielamg24/CoastalProtectionData/blob/plaster-bal/gypsumSTATS.R)
+2. [Graphs](https://github.com/gabrielamg24/CoastalProtectionData/blob/plaster-bal/gypsumPLOTS.R)
 
 ### Wave Gauge
+
+1. [Matlab script for processing](https://github.com/gabrielamg24/CoastalProtectionData/blob/waveloggers/OSSI_august.m)
+2. [Graphs](https://github.com/gabrielamg24/CoastalProtectionData/blob/waveloggers/waveloggersGRAPHS.R)
+
+
