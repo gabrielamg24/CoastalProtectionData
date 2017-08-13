@@ -2,12 +2,12 @@ Griend ![Wadden Sea](https://github.com/gabrielamg24/SST/blob/extras/waddensea.j
 
 ## Coastal Protection Data Analysis - Griend
 
-###Repository with scripts and files needed for analyzing data from the Griend project (coastal protection)
+### Repository with scripts and files needed for analyzing data from the Griend project (coastal protection)
 
 There are 4 main types of data, there is a branch created for each of them which includes all scripts needed for analyzing them. 
 
 ==================
-##Index
+## Index
   - [Usage](#Usage)
     - [Erosion sticks](#erosion-sticks)
     - [dGPS](#dgps)
@@ -20,7 +20,7 @@ There are 4 main types of data, there is a branch created for each of them which
   - [License](#license)
 
 ---
-##Usage 
+## Usage 
 
 
 
@@ -29,18 +29,18 @@ There are 4 main types of data, there is a branch created for each of them which
 3. [R script](https://github.com/gabrielamg24/SST/blob/master/gganimate.r)
 4. [Data files](https://github.com/gabrielamg24/SST/blob/master/SST%20all%20files.zip) (use these files as an example!)
 
-###Erosion sticks  
+### Erosion sticks  
 
 
 
-###dGPS
+### dGPS
 
 This script will help you rearrange your data files and compile them into one!
 
           #! /usr/bin/env python
 
 
-###Plaster balls
+### Plaster balls
 
 
-###Wave Gauge
+### Wave Gauge
