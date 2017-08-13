@@ -6,7 +6,7 @@
 
 There are 4 main types of data, there is a branch created for each of them which includes all scripts needed for analyzing them. 
 
-==================
+===
 ## Index
   - [DATA](#data)
     - [Erosion sticks](#erosion-sticks)
