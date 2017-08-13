@@ -6,7 +6,7 @@
 
 There are 4 main types of data, there is a branch created for each of them which includes all scripts needed for analyzing them. 
 
-===
+---
 ## Index
   - [DATA](#data)
     - [Erosion sticks](#erosion-sticks)
@@ -43,5 +43,17 @@ The following links direct to R or Matlab scripts.
 
 1. [Matlab script for processing](https://github.com/gabrielamg24/CoastalProtectionData/blob/waveloggers/OSSI_august.m)
 2. [Graphs](https://github.com/gabrielamg24/CoastalProtectionData/blob/waveloggers/waveloggersGRAPHS.R)
+
+---
+
+## Results
+
+---
+
+## Are we missing something??
+
+**Don't be shy, let us know!**
+open an issue and we'll build this up together 
+
 
 
