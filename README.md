@@ -8,7 +8,7 @@ There are 4 main types of data, there is a branch created for each of them which
 
 ==================
 ##Index
-  - [Usage](##usage)
+  - [Usage](##Usage)
     - [Erosion sticks](#erosion-sticks)
     - [dGPS](#dgps)
     - [Plaster balls](#plaster-balls)
