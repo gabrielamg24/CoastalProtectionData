@@ -1,4 +1,4 @@
-#Griend ![Wadden Sea](https://github.com/gabrielamg24/SST/blob/extras/waddensea.jpg)
+Griend ![Wadden Sea](https://github.com/gabrielamg24/SST/blob/extras/waddensea.jpg)
 
 ## Coastal Protection Data Analysis - Griend
 
